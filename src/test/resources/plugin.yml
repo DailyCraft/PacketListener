@@ -1,0 +1,5 @@
+name: PacketListenerTest
+version: 1.0
+api-version: 1.18
+author: DailyCraft
+main: mc.dailycraft.packetlistener.test.Main
